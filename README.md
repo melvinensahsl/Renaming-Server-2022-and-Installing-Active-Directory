@@ -221,4 +221,4 @@ Congratulations we have successfully created a domain controller (SimoTech.com) 
 <br />
 <br />
 
- 👉 [Next Lab 3 : Active Directory Account Creation, CMD Commands]
+ 👉 [Next Lab 3 : Active Directory Account Creation, CMD Commands](https://github.com/melvinensahsl/Active-Directory-Account-Creation-CMD-Commands/tree/main)
